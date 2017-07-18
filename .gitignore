@@ -1,0 +1,6 @@
+*.env
+*.retry
+*.copy
+.vagrant/*
+vault/*
+roles/jgeusebroek.docker/
